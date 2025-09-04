@@ -6,7 +6,6 @@ const HomeRootLayout = () => {
     <Tabs
       screenOptions={{
         tabBarActiveTintColor: "#34967C",
-        headerShown: false, // global setting
       }}
     >
       <Tabs.Screen
