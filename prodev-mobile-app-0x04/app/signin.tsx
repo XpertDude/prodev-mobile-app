@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { View, Text, TextInput, TouchableOpacity } from "react-native";
-import { styles } from "../styles/_joinstyle"; // Import SignIn/Join shared styles
+import { styles } from "../styles/_join"; // Import SignIn/Join shared styles
 import { useNavigation } from "@react-navigation/native";
 
 const SignIn = () => {
